@@ -1,11 +1,31 @@
 ![Hacktoberfest](https://hacktoberfest.com/_next/static/media/opengraph.9dc60c9d.png)
 
 
-# Git Cheat Sheet
+# Guide
 
 
+We've put together a visual step-by-step guide to help you contribute:
+
+1. **Fork the repository:** 
+   ![Fork](resources/fork.png) 
+
+2. **Edit the repository name:**
+   ![Edit Repo Name](resources/repo-name.png) 
+
+3. **Navigate to the file you want to edit:**
+   ![Navigate](resources/navigate.png) 
+
+4. **Add a new JSON course (to `courses.json`):**
+   ![Add JSON Course](resources/md-course.png) 
+
+5. **Raise a Pull Request:** 
+   ![Raise PR](resources/PR.png) 
+
+6. **Confirm your Pull Request:**
+   ![Pull Request](resources/PR-raise.png) 
 
 
+#Git Cheat Sheet 
 
 **1. Initialize a new Git repository:**
 
@@ -132,5 +152,4 @@ To use this command, copy the text above, replace `"your.email@example.com"` wit
 | `git stash pop` | Restores the most recently stashed changes. | ```bash git stash pop ``` | 
 | `git config --global user.name "Your Name"` | Sets your name globally. | ```bash git config --global user.name "Your Name" ``` |
 | `git config --global user.email "your.email@example.com"` | Sets your email globally. | ```bash git config --global user.email "your.email@example.com" ``` |
-
 
